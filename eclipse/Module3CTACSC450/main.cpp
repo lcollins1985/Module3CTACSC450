@@ -19,7 +19,7 @@ int main()
     cout << "b : " << b[0] << endl;
     cout << "c : " << c[0] << endl;
 
-/* delete memory */
+//delete memory 
     delete a;
     delete b;
     delete c;

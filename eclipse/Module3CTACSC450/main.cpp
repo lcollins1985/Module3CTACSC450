@@ -12,12 +12,12 @@ int main()
     a[0] = x;       //create the value pointers 
     b[0] = y;
     c[0] = z;
-    cout << "x : " << x << endl;   //print values of variables 
-    cout << "y : " << y << endl;
-    cout << "z : " << z << endl;
-    cout << "a : " << a[0] << endl;
-    cout << "b : " << b[0] << endl;
-    cout << "c : " << c[0] << endl;
+    cout << "x: " << x << endl;   //print values of variables 
+    cout << "y: " << y << endl;
+    cout << "z: " << z << endl;
+    cout << "a: " << a[0] << endl;
+    cout << "b: " << b[0] << endl;
+    cout << "c: " << c[0] << endl;
 
 //delete memory 
     delete a;
